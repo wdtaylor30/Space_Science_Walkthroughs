@@ -14,6 +14,5 @@ The code in this repository was written following Thomas Albin's *Space Science*
 https://github.com/ThomasAlbin/SpaceScienceTutorial
 
 Skills Demonstrated:
-* 2D visualization using matplotlib
-* 3D visualization
+* 2D and 3D visualization using matplotlib
 * domain-specific computation
