@@ -2,7 +2,7 @@
 *I did not create- nor do I claim to have created- the tutorials followed for*
 *this portfolio project.*
 
-This is a portfolio project demonstrating proficiency Python
+This is a portfolio project demonstrating proficiency in Python
 for data science, specifically with applications in astronomy.
 
 The code in this repository was written following Thomas Albin's *Space Science*
